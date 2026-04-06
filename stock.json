@@ -1,16 +1,8 @@
 [
   {
-    "Medicine Name": "Paracetamol",
-    "Batch": "BN123",
-    "Expiry": "2025-12",
-    "Stock Qty": 100,
-    "Price": 20.5
-  },
-  {
-    "Medicine Name": "Azithromycin",
-    "Batch": "AZ990",
-    "Expiry": "2024-06",
-    "Stock Qty": 50,
-    "Price": 120
+    "Medicine Name": "Dolo 650",
+    "Batch": "DL101",
+    "Stock": 100,
+    "Price": 30
   }
 ]
