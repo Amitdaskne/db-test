@@ -4,5 +4,11 @@
     "Batch": "DL101",
     "Stock": 100,
     "Price": 30
+  },
+  {
+    "Medicine Name": "Dolo 650",
+    "Batch": "DL101",
+    "Stock": 100,
+    "Price": 30
   }
 ]
